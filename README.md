@@ -2,7 +2,7 @@
 
 Damn Vulnerable Applications Collection
 
-P/s: Credit to all the creator of this awesome project. Iam not the creator for all this project. I just put it here to make it easy for everyone to refer..
+P/s: Credit to all the creator of this awesome project. I'am not the creator for all this project. I just put it here to make it easy for everyone to refer.
 
 ## Web Applications
 - DVWA : https://github.com/ethicalhack3r/DVWA (or https://www.vulnhub.com/entry/damn-vulnerable-web-application-dvwa-107,43/)
@@ -15,6 +15,8 @@ P/s: Credit to all the creator of this awesome project. Iam not the creator for 
 - DVGM : https://git.logicalhacking.com/BrowserSecurity/DVGM
 - DVWS : https://github.com/snoopysecurity/dvws, https://github.com/snoopysecurity/dvws-node
 - DVCSHARP : https://github.com/appsecco/dvcsharp-api
+- Damn Vulnerable NodeJS Application : 
+https://www.kitploit.com/2022/01/ninjasworkout-vulnerable-nodejs-web.html
 
 ## Source Code
 - DVSC : https://github.com/h4x0r101/Damn-Vulnerable-Source-Code
